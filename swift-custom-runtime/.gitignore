@@ -1,8 +1,0 @@
-.DS_Store
-/Packages
-/*.xcodeproj
-xcuserdata/
-
-.aws-sam
-.build
-*.resolved
